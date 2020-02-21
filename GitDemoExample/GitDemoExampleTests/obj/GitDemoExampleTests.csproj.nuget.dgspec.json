@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Mukund\\Study\\2020\\DevOps\\GitDemo\\GitDemoExample\\GitDemoExampleTests\\GitDemoExampleTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Mukund\\Study\\2020\\DevOps\\GitDemo\\GitDemoExample\\GitDemoExampleTests\\GitDemoExampleTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Mukund\\Study\\2020\\DevOps\\GitDemo\\GitDemoExample\\GitDemoExampleTests\\GitDemoExampleTests.csproj",
+        "projectName": "GitDemoExampleTests",
+        "projectPath": "C:\\Mukund\\Study\\2020\\DevOps\\GitDemo\\GitDemoExample\\GitDemoExampleTests\\GitDemoExampleTests.csproj",
+        "packagesPath": "C:\\Users\\mukund.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Mukund\\Study\\2020\\DevOps\\GitDemo\\GitDemoExample\\GitDemoExampleTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mukund.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Mukund\\Study\\2020\\DevOps\\GitDemo\\GitDemoExample\\GitDemoExample\\GitDemoExample.csproj": {
+                "projectPath": "C:\\Mukund\\Study\\2020\\DevOps\\GitDemo\\GitDemoExample\\GitDemoExample\\GitDemoExample.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Mukund\\Study\\2020\\DevOps\\GitDemo\\GitDemoExample\\GitDemoExample\\GitDemoExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Mukund\\Study\\2020\\DevOps\\GitDemo\\GitDemoExample\\GitDemoExample\\GitDemoExample.csproj",
+        "projectName": "GitDemoExample",
+        "projectPath": "C:\\Mukund\\Study\\2020\\DevOps\\GitDemo\\GitDemoExample\\GitDemoExample\\GitDemoExample.csproj",
+        "packagesPath": "C:\\Users\\mukund.kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Mukund\\Study\\2020\\DevOps\\GitDemo\\GitDemoExample\\GitDemoExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mukund.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
